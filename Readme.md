@@ -31,3 +31,5 @@ for image scaner run this
 #Intergrate all with chat ui like chat gpt , gemini, cluaude, etc. run openweb ui
 
  .aider-env/bin/open-webui serve --host 127.0.0.1 --port 3000
+
+ On openwebui add your local link to connect ai yo openwebui system

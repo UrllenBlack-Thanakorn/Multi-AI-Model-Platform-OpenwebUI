@@ -1,0 +1,5 @@
+curl -L -o ~/models/qwen2.5-coder-7b-q4_k_m.gguf "https://huggingface.co/bartowski/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-7B-Instruct-Q4_K_M.gguf?download=true"
+curl -L -o ~/models/Qwen2.5-7B-Instruct-Q4_K_M.gguf "https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-GGUF/resolve/main/Qwen2.5-7B-Instruct-Q4_K_M.gguf?download=true"
+curl -L -o ~/models/Qwen2.5-7B-Instruct-Q4_K_M.gguf "https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-GGUF/resolve/main/Qwen2.5-7B-Instruct-Q4_K_M.gguf?download=true"
+curl -L -o ~/models/qwen2-vl-7b-q4_k_m.gguf "https://huggingface.co/bartowski/Qwen2-VL-7B-Instruct-GGUF/resolve/main/Qwen2-VL-7B-Instruct-Q4_K_M.gguf?download=true"
+curl -L -o ~/models/mmproj-qwen2-vl-7b-f16.gguf "https://huggingface.co/bartowski/Qwen2-VL-7B-Instruct-GGUF/resolve/main/mmproj-Qwen2-VL-7B-Instruct-f16.gguf?download=true"
