@@ -1,0 +1,19 @@
+# Virtual Environments
+.venv/
+.aider-env/
+
+# Model Files & Large Binaries
+*.gguf
+*.bin
+*.pt
+models/
+
+# Database & Cache
+*.db
+__pycache__/
+.cache/
+.open-webui/
+open-webui-data-new/
+
+# Environment Variables & Secrets
+.env

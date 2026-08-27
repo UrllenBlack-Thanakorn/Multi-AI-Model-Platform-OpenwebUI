@@ -1,0 +1,5 @@
+open-webui
+aider-chat
+huggingface_hub[cli]
+requests
+urllib3
