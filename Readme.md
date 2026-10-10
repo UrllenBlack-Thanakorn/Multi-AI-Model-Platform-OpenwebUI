@@ -28,6 +28,13 @@ for image scaner run this
   -ngl 99 \
   --alias qwen2-vl-7b
 
+#llama-server \
+  -m ~/models/gpt-oss-20b-Q3_K_M.gguf \
+  --port 5005ค \
+  -c 16384 \
+  -ngl 99 \
+  --alias gpt-oss-20b
+
 #Intergrate all with chat ui like chat gpt , gemini, cluaude, etc. run openweb ui
 
  .aider-env/bin/open-webui serve --host 127.0.0.1 --port 3000
